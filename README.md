@@ -2,8 +2,7 @@
 
 Rock, Paper, Scissors, Lizard, Spock. This quirky little game was made popular by the fictional character Sheldon Cooper in the show "The Big Bang Theory".
 After wrapping up the episode in which this variant of rock paper scissors was mentioned in, I decided to test my ability to program in Java using concepts 
-I was not that familiar within the coding language itself. With the help of internet articles and youtube videos, I learned how to use methods more efficiently, 
-as well as learning how to create a simple GUI window with buttons in the same day within creating this project.
+I was not all too familiar with. Thanks to internet articles and youtube videos, I learned how to use methods more efficiently, as well as learning how to create a GUI window with buttons.
 
 The rules for this game are simple, it is your typical rock paper scissors game but with an addition of two extra choices.
 Below are the rules:
